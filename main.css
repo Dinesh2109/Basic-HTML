@@ -1,0 +1,16 @@
+html {
+    font-size: 22px;
+}
+body {
+    background-color: aqua;
+    color: black;
+}
+h1 {
+    color: darkred;
+}
+p {
+    color: indigo;
+}
+h4 {
+    color:brown;
+}
